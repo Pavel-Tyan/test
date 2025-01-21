@@ -13,5 +13,3 @@ npm run start
 npx playwright install # Бинарники для браузеров
 npm run test # запуск тестов
 ```
-
-Деплой через vercel: https://todos-deploy.vercel.app/
